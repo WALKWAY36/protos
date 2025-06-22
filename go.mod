@@ -1,4 +1,4 @@
-module github.com/WALKWAY36/protos.git
+module github.com/WALKWAY36/protos
 
 go 1.24.0
 
